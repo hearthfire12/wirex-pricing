@@ -1,6 +1,6 @@
 using FluentAssertions;
 using Wirex.Pricing.Tests.Contract;
-using Wirex.Pricing.Tests.Discounts;
+using Wirex.Pricing.Tests.DiscountHandlers;
 using Wirex.Pricing.Tests.Entities;
 using Wirex.Pricing.Tests.Services;
 using Xunit;

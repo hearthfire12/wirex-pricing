@@ -2,7 +2,7 @@ using Wirex.Pricing.Tests.Contract;
 using Wirex.Pricing.Tests.Entities;
 using Wirex.Pricing.Tests.Model;
 
-namespace Wirex.Pricing.Tests.Discounts
+namespace Wirex.Pricing.Tests.DiscountHandlers
 {
     public class PercentageDiscountHandler: IDiscountHandler {
         public bool CanHandle(DiscountEntity discount)
